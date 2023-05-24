@@ -1,0 +1,12 @@
+.container-box {
+  margin: 15px;
+}
+
+tbody {
+  cursor: pointer;
+}
+
+.no-data-color {
+  color: red;
+  /* font-weight: bold; */
+}
